@@ -15,7 +15,7 @@ import aiohttp
 # ============ CONFIG ============
 BOT_TOKEN = "8968617865:AAF1D2_1si8tZ_sOdLWklEomqs-oImVLcMw"
 ADMIN_IDS = [7194867487, 5947360149]
-UPI_ID = "anand.abhishek.deal@fam"
+UPI_ID = "XXXX@fam"
 BOT_USERNAME = "Wblzy9Bot"
 PORT = 8080
 
